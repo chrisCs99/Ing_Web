@@ -1,0 +1,17 @@
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Soporte.Infraestructure\bin\Debug\netcoreapp3.1\Tienda.Soporte.Infraestructure.deps.json
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Soporte.Infraestructure\bin\Debug\netcoreapp3.1\Tienda.Soporte.Infraestructure.runtimeconfig.json
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Soporte.Infraestructure\bin\Debug\netcoreapp3.1\Tienda.Soporte.Infraestructure.runtimeconfig.dev.json
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Soporte.Infraestructure\bin\Debug\netcoreapp3.1\Tienda.Soporte.Infraestructure.dll
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Soporte.Infraestructure\bin\Debug\netcoreapp3.1\Tienda.Soporte.Infraestructure.pdb
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Soporte.Infraestructure\bin\Debug\netcoreapp3.1\Tienda.Soporte.Domain.dll
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Soporte.Infraestructure\bin\Debug\netcoreapp3.1\Tienda.Soporte.SharedKernel.dll
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Soporte.Infraestructure\bin\Debug\netcoreapp3.1\Tienda.Soporte.Domain.pdb
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Soporte.Infraestructure\bin\Debug\netcoreapp3.1\Tienda.Soporte.SharedKernel.pdb
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Soporte.Infraestructure\obj\Debug\netcoreapp3.1\Tienda.Soporte.Infraestructure.csprojAssemblyReference.cache
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Soporte.Infraestructure\obj\Debug\netcoreapp3.1\Tienda.Soporte.Infraestructure.AssemblyInfoInputs.cache
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Soporte.Infraestructure\obj\Debug\netcoreapp3.1\Tienda.Soporte.Infraestructure.AssemblyInfo.cs
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Soporte.Infraestructure\obj\Debug\netcoreapp3.1\Tienda.Soporte.Infraestructure.csproj.CoreCompileInputs.cache
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Soporte.Infraestructure\obj\Debug\netcoreapp3.1\Tienda.Soporte.Infraestructure.csproj.CopyComplete
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Soporte.Infraestructure\obj\Debug\netcoreapp3.1\Tienda.Soporte.Infraestructure.dll
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Soporte.Infraestructure\obj\Debug\netcoreapp3.1\Tienda.Soporte.Infraestructure.pdb
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Soporte.Infraestructure\obj\Debug\netcoreapp3.1\Tienda.Soporte.Infraestructure.genruntimeconfig.cache

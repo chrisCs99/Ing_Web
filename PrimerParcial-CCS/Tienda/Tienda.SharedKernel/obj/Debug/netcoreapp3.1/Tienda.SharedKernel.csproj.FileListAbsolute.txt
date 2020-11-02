@@ -1,0 +1,24 @@
+D:\Temp\II-2020\tiw\Tienda\Tienda.SharedKernel\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.deps.json
+D:\Temp\II-2020\tiw\Tienda\Tienda.SharedKernel\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.dll
+D:\Temp\II-2020\tiw\Tienda\Tienda.SharedKernel\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.pdb
+D:\Temp\II-2020\tiw\Tienda\Tienda.SharedKernel\obj\Debug\netcoreapp3.1\Tienda.SharedKernel.AssemblyInfoInputs.cache
+D:\Temp\II-2020\tiw\Tienda\Tienda.SharedKernel\obj\Debug\netcoreapp3.1\Tienda.SharedKernel.AssemblyInfo.cs
+D:\Temp\II-2020\tiw\Tienda\Tienda.SharedKernel\obj\Debug\netcoreapp3.1\Tienda.SharedKernel.dll
+D:\Temp\II-2020\tiw\Tienda\Tienda.SharedKernel\obj\Debug\netcoreapp3.1\Tienda.SharedKernel.pdb
+D:\Temp\II-2020\tiw\Tienda\Tienda.SharedKernel\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.runtimeconfig.json
+D:\Temp\II-2020\tiw\Tienda\Tienda.SharedKernel\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.runtimeconfig.dev.json
+D:\Temp\II-2020\tiw\Tienda\Tienda.SharedKernel\obj\Debug\netcoreapp3.1\Tienda.SharedKernel.csproj.CoreCompileInputs.cache
+D:\Temp\II-2020\tiw\Tienda\Tienda.SharedKernel\obj\Debug\netcoreapp3.1\Tienda.SharedKernel.genruntimeconfig.cache
+D:\Temp\II-2020\tiw\Tienda\Tienda.SharedKernel\obj\Debug\netcoreapp3.1\Tienda.SharedKernel.csprojAssemblyReference.cache
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.SharedKernel\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.deps.json
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.SharedKernel\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.runtimeconfig.json
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.SharedKernel\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.runtimeconfig.dev.json
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.SharedKernel\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.dll
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.SharedKernel\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.pdb
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.SharedKernel\obj\Debug\netcoreapp3.1\Tienda.SharedKernel.AssemblyInfoInputs.cache
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.SharedKernel\obj\Debug\netcoreapp3.1\Tienda.SharedKernel.AssemblyInfo.cs
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.SharedKernel\obj\Debug\netcoreapp3.1\Tienda.SharedKernel.csproj.CoreCompileInputs.cache
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.SharedKernel\obj\Debug\netcoreapp3.1\Tienda.SharedKernel.dll
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.SharedKernel\obj\Debug\netcoreapp3.1\Tienda.SharedKernel.pdb
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.SharedKernel\obj\Debug\netcoreapp3.1\Tienda.SharedKernel.genruntimeconfig.cache
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.SharedKernel\obj\Debug\netcoreapp3.1\Tienda.SharedKernel.csprojAssemblyReference.cache

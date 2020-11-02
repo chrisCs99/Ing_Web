@@ -1,0 +1,34 @@
+D:\Temp\II-2020\tiw\Tienda\Tienda.Distribucion.Infraestructura\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.deps.json
+D:\Temp\II-2020\tiw\Tienda\Tienda.Distribucion.Infraestructura\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.dll
+D:\Temp\II-2020\tiw\Tienda\Tienda.Distribucion.Infraestructura\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.csprojAssemblyReference.cache
+D:\Temp\II-2020\tiw\Tienda\Tienda.Distribucion.Infraestructura\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.AssemblyInfoInputs.cache
+D:\Temp\II-2020\tiw\Tienda\Tienda.Distribucion.Infraestructura\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.AssemblyInfo.cs
+D:\Temp\II-2020\tiw\Tienda\Tienda.Distribucion.Infraestructura\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.dll
+D:\Temp\II-2020\tiw\Tienda\Tienda.Distribucion.Infraestructura\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.dll
+D:\Temp\II-2020\tiw\Tienda\Tienda.Distribucion.Infraestructura\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.pdb
+D:\Temp\II-2020\tiw\Tienda\Tienda.Distribucion.Infraestructura\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.pdb
+D:\Temp\II-2020\tiw\Tienda\Tienda.Distribucion.Infraestructura\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.csproj.CopyComplete
+D:\Temp\II-2020\tiw\Tienda\Tienda.Distribucion.Infraestructura\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.runtimeconfig.json
+D:\Temp\II-2020\tiw\Tienda\Tienda.Distribucion.Infraestructura\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.runtimeconfig.dev.json
+D:\Temp\II-2020\tiw\Tienda\Tienda.Distribucion.Infraestructura\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.genruntimeconfig.cache
+D:\Temp\II-2020\tiw\Tienda\Tienda.Distribucion.Infraestructura\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.pdb
+D:\Temp\II-2020\tiw\Tienda\Tienda.Distribucion.Infraestructura\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.dll
+D:\Temp\II-2020\tiw\Tienda\Tienda.Distribucion.Infraestructura\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.pdb
+D:\Temp\II-2020\tiw\Tienda\Tienda.Distribucion.Infraestructura\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.csproj.CoreCompileInputs.cache
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Distribucion.Infraestructura\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.deps.json
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Distribucion.Infraestructura\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.runtimeconfig.json
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Distribucion.Infraestructura\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.runtimeconfig.dev.json
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Distribucion.Infraestructura\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.dll
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Distribucion.Infraestructura\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.pdb
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Distribucion.Infraestructura\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.dll
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Distribucion.Infraestructura\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.dll
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Distribucion.Infraestructura\bin\Debug\netcoreapp3.1\Tienda.Distribucion.Domain.pdb
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Distribucion.Infraestructura\bin\Debug\netcoreapp3.1\Tienda.SharedKernel.pdb
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Distribucion.Infraestructura\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.csprojAssemblyReference.cache
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Distribucion.Infraestructura\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.AssemblyInfoInputs.cache
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Distribucion.Infraestructura\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.AssemblyInfo.cs
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Distribucion.Infraestructura\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.csproj.CoreCompileInputs.cache
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Distribucion.Infraestructura\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.csproj.CopyComplete
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Distribucion.Infraestructura\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.dll
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Distribucion.Infraestructura\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.pdb
+E:\NUR\SEMESTRE II - 2020\ING WEB\Tienda\Tienda.Distribucion.Infraestructura\obj\Debug\netcoreapp3.1\Tienda.Distribucion.Infraestructura.genruntimeconfig.cache
