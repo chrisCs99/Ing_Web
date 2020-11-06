@@ -1,0 +1,245 @@
+{
+	"info": {
+		"_postman_id": "5a15c367-a4a0-4a8d-949c-9470c50738ec",
+		"name": "ING.WEB",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "insert client",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Id\": \"bd9ea95e-6d1d-43de-98fb-0a15d26d92e9\",\r\n    \"Nombres\" : \"Fernando\",\r\n    \"Apellidos\": \"Soto\",\r\n    \"Telefono\": \"157894\",\r\n    \"Correo\": \"fsoto@ex.com\",\r\n    \"Direccion\": \"Av. Siempre viva\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44330/api/Cliente",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44330",
+					"path": [
+						"api",
+						"Cliente"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "insert Order service",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Cliente\": \"BD9EA95E-6D1D-43DE-98FB-0A15D26D92E9\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44330/api/OrdenServicio/",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44330",
+					"path": [
+						"api",
+						"OrdenServicio",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "insert Order service cancel",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Id\": \"41B2A81A-AC40-46D7-A6D7-6775208D01BB\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44330/api/OrdenServicio/cancel",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44330",
+					"path": [
+						"api",
+						"OrdenServicio",
+						"cancel"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "insert Order service detail",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"TipoServicio\": 1,\r\n    \"Precio\": 1100,\r\n    \"OrdenServicio\": \"811DB7F6-C301-436C-89DC-E4ED1F5A3730\",\r\n    \"Descripcion_Servicio\": \"Testeando ando new 23\",\r\n    \"Productos\": [\"AC9063D4-1B52-4DBA-89DF-A294D7750DD4\", \"556D6069-B495-4BAE-A837-92EEF11014F8\"]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44330/api/DetalleServicio/",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44330",
+					"path": [
+						"api",
+						"DetalleServicio",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "insert product",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"NombreProd\": \"Guitarra Electrica\",\r\n    \"Categoria\" : \"Musica\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44330/api/Producto",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44330",
+					"path": [
+						"api",
+						"Producto"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "insert tecniche",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Nombres\" : \"Maria\",\r\n    \"Apellidos\": \"Juaquina\",\r\n    \"Telefono\": \"16516\",\r\n    \"Correo\": \"fasde@ex.com\",\r\n    \"Oficio\": 2\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44330/api/Tecnico",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44330",
+					"path": [
+						"api",
+						"Tecnico"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "insert cite",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"OrdenServicio\": \"811DB7F6-C301-436C-89DC-E4ED1F5A3730\",\r\n    \"FechaVisita\" : \"2020-11-10\",\r\n    \"Direccion\": \"Av. Siempre Viva #3945\",\r\n    \"DescripcionCita\": \"Mantenimiento de instrumentos\",\r\n    \"Tecnico\": [\"022F799F-B998-48E9-9C1B-50B8657F2DDB\", \"55B75A62-643D-4D10-BC05-E3E7FBD18432\"]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44330/api/Cita",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44330",
+					"path": [
+						"api",
+						"Cita"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "insert form work",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Cita\": \"CDE967DD-E909-4347-AF11-F0AC0A90B9F6\",\r\n    \"DetalleTrabajo\" : \"Se hizo el mantenimiento solicitado\",\r\n    \"FechaFormulario\": \"2020-11-06\",\r\n    \"OrdenServicio\": \"811DB7F6-C301-436C-89DC-E4ED1F5A3730\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44330/api/FormTrabajo",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44330",
+					"path": [
+						"api",
+						"FormTrabajo"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
